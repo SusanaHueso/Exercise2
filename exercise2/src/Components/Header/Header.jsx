@@ -1,7 +1,7 @@
 import React from 'react';
 import './Header.css'
 
-const Home = () =>{
+const Header = () =>{
     return (<div className ="headerDesign"> This Is a Header</div>)
 }
-export default Home;
+export default Header;
