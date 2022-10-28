@@ -1,0 +1,9 @@
+.homeDesign {
+  position: absolute;
+  color:white;
+  bottom: 50%;
+  width: 80%;
+  height: 50px;
+  margin-left: 10%;
+  background-color: purple;
+}
